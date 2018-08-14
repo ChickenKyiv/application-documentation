@@ -1,4 +1,9 @@
-# Release \#0
+---
+id: release0
+title: Release \#0
+sidebar_label: Release \#0
+---
+
 
 Ionic App\(release \#1\) aka Free Menu have this app screens\(screenshots available at the end of article\):
 
@@ -14,4 +19,3 @@ Free-recipes version
 * Complex recipe
 * Move styles to appropriate place
 * Change steps in JSON to directions
-

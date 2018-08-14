@@ -1,4 +1,8 @@
-# Table of contents
+---
+id: summary
+title: Table of contents
+sidebar_label: Table of contents
+---
 
 * [Initial page](README.md)
 * [Releases](releases.md)
@@ -8,4 +12,3 @@
 * [Previous application screenshots](previous-application-screenshots.md)
 * [Text](text.md)
 * [UI Elements](ui-elements.md)
-
