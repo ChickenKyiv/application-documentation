@@ -1,2 +1,0 @@
-# Previous application screenshots
-

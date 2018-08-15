@@ -1,4 +1,9 @@
-# Release \#1
+---
+id: release1
+title: Release \#1
+sidebar_label: Release \#1
+---
+
 
 
 
@@ -36,4 +41,3 @@
 * Credit cards
 * Different navigation types
 * Settings
-
