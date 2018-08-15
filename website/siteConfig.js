@@ -47,9 +47,9 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/ChickenKyivLogos.png',
+  footerIcon: 'img/ChickenKyivLogos.png',
+  favicon: 'img/ChickenKyivLogos.png',
 
   /* colors for website */
   colors: {
