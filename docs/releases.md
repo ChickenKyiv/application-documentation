@@ -12,6 +12,7 @@ sidebar_label: Releases
 Recipe App Release #0
 
 Heading: Simple application for viewing recipes
+
 Subheading: This template can be used by other Food Tech startups, that have dish details page or recipe with details page.
 
 Summary: Use this project as a starting point for your Recipe Business.
