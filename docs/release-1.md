@@ -1,4 +1,9 @@
-# Release \#1
+---
+id: release1
+title: Release #1
+sidebar_label: Release #1
+---
+
 
 
 
@@ -37,3 +42,25 @@
 * Different navigation types
 * Settings
 
+### Heading:
+App that allow you combine your recipes into a weekly menus.
+
+### Subheading:
+Move your recipes between weekdays and plan your future family meals.
+
+### Summary:
+ With some tweaks, additions and connection to database, this project can be a starting point for your meal planning business
+
+### Problem:
+ Usually meal planning software is a complex thing. You should be aware about a lot of small things and apply a lot of small tricks. With our project - you can settle down and focus on your content.
+
+### Solution:
+ Build on top of JavaScript frameworks and plugins that used by other projects worldwide. You'll get a simple solution, that conver a big amount of functionality.
+
+### How to start:
+ Download, preview, change design or color scheme easily.
+
+### Customer quote:
+  use this code and save up to $15.000 for development. and use that money for growing your business!
+
+### Closing Call to Action :
