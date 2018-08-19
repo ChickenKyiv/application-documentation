@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'Recipe App (React Native)' /* title for your website */,
 
-  url: 'https://recipe-app-react-native.com' /* your website url */,
-  baseUrl: '/' /* base url for your project */,
+  url: 'https://ChickenKyiv.github.io' /* your website url */,
+  baseUrl: '/recipe-app-react-native/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
