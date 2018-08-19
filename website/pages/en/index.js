@@ -123,20 +123,20 @@ const FeatureCallout = props => (
         <div className = "tableofcontents">
 
       <ul>
-        <li><a href="/docs/init-page">Initial page</a></li>
-        <li><a href="/docs/releases">Releases</a></li>
-        <li><a href="/docs/release0">Release #0</a></li>
-        <li><a href="/docs/release1">Release #1</a></li>
-        <li><a href="/docs/release1.5">Release #1.5</a></li>
-        <li><a href="/docs/release2">Release #2</a></li>
-        <li><a href="/docs/release3">Release #3</a></li>
-        <li><a href="/docs/description">Description</a></li>
-        <li><a href="/docs/prev-app-screenshots">Previous application screenshots</a></li>
-        <li><a href="/docs/text">Text</a></li>
-        <li><a href="/docs/ui-elements">UI Elements</a></li>
-        <li><a href="/docs/article1.md">if you have recipe based website and want to have an application too</a></li>
-        <li><a href="/docs/article2.md">How I plan to get from app idea into working prototype(food tech)</a></li>
-        <li><a href="/docs/article3.md">Basic requirements for React Native app</a></li>
+        <li><a href="/recipe-app-react-native/docs/init-page">Initial page</a></li>
+        <li><a href="/recipe-app-react-native/docs/releases">Releases</a></li>
+        <li><a href="/recipe-app-react-native/docs/release0">Release #0</a></li>
+        <li><a href="/recipe-app-react-native/docs/release1">Release #1</a></li>
+        <li><a href="/recipe-app-react-native/docs/release1-5">Release #1.5</a></li>
+        <li><a href="/recipe-app-react-native/docs/release2">Release #2</a></li>
+        <li><a href="/recipe-app-react-native/docs/release3">Release #3</a></li>
+        <li><a href="/recipe-app-react-native/docs/description">Description</a></li>
+        <li><a href="/recipe-app-react-native/docs/prev-app-screenshots">Previous application screenshots</a></li>
+        <li><a href="/recipe-app-react-native/docs/text">Text</a></li>
+        <li><a href="/recipe-app-react-native/docs/ui-elements">UI Elements</a></li>
+        <li><a href="/recipe-app-react-native/docs/article1.md">if you have recipe based website and want to have an application too</a></li>
+        <li><a href="/recipe-app-react-native/docs/article2.md">How I plan to get from app idea into working prototype(food tech)</a></li>
+        <li><a href="/recipe-app-react-native/docs/article3.md">Basic requirements for React Native app</a></li>
       </ul>
       </div>
 
@@ -148,7 +148,13 @@ const FeatureCallout2 = props => (
   <div className = "ogg" style={{textAlign: 'left'}}>
     <div className="wrapper">
       <div className="gridBlock">
-        <div className="blockElement imageAlignSide imageAlignLeft twoByGridBlock"><div className="blockImage"><img src="/img/54A84DCB-F7EE-49E3-8DA1-1EF07F873622.png"></img></div><div className="blockContent"><h2><div><span><p>Description</p>
+        <div className="blockElement imageAlignSide imageAlignLeft twoByGridBlock">
+          <div className="blockImage">
+            <img src="/recipe-app-react-native/img/54A84DCB-F7EE-49E3-8DA1-1EF07F873622.png">
+
+            </img>
+          </div>
+          <div className="blockContent"><h2><div><span><p>Description</p>
     </span></div></h2><div><span><p>
         Build with: Angular, Ionic Framework v.1
       <ul>

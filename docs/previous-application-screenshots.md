@@ -6,50 +6,50 @@ sidebar_label: Previous application screenshots
 
 
 #### styled recipe screen
-![styled recipe screen](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_slfggOuPcZ10E0xm2MZKfw.png)
+![styled recipe screen](/recipe-app-react-native/img/app/1_slfggOuPcZ10E0xm2MZKfw.png)
 
 #### recipe calendar
-![recipe calendar](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_2sthKHDI4MT5a0cIFDhGfA.png)
+![recipe calendar](/recipe-app-react-native/img/app/1_2sthKHDI4MT5a0cIFDhGfA.png)
 
 #### grocery list settings
-![grocery list settings](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_6FESeKqa4QMxy0_G5UkOuQ.png)
+![grocery list settings](/recipe-app-react-native/img/app/1_6FESeKqa4QMxy0_G5UkOuQ.png)
 
 #### login
-![login](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_7JdBzPnDtKvDveXd8VT6Ww.png)
+![login](/recipe-app-react-native/img/app/1_7JdBzPnDtKvDveXd8VT6Ww.png)
 
 #### Styled recipe screen
-![Styled recipe screen](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_BOKv1qUDyxiRkyJumsGldw.png)
+![Styled recipe screen](/recipe-app-react-native/img/app/1_BOKv1qUDyxiRkyJumsGldw.png)
 #### styled recipe
-![styled recipe](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_Gp6Y81Qa-BxjDNZM8sOEsQ.png)
+![styled recipe](/recipe-app-react-native/img/app/1_Gp6Y81Qa-BxjDNZM8sOEsQ.png)
 #### menu
-![menu](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_JwzRULKEXkj_s3_1YZTD5w.png)
+![menu](/recipe-app-react-native/img/app/1_JwzRULKEXkj_s3_1YZTD5w.png)
 #### weekly menu
-![weekly menu](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_M_SryfXo-g7sUCkb8onMoQ.png)
+![weekly menu](/recipe-app-react-native/img/app/1_M_SryfXo-g7sUCkb8onMoQ.png)
 #### directions
-![directions](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_Nuje-74uy-afl_Jj_a0hLg.png)
+![directions](/recipe-app-react-native/img/app/1_Nuje-74uy-afl_Jj_a0hLg.png)
 #### single recipe
-![single recipe](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_QgbcEQEfNZykDqDdQgK2zQ.png
+![single recipe](/recipe-app-react-native/img/app/1_QgbcEQEfNZykDqDdQgK2zQ.png
 )
 #### Dry Goods ingredient category example
-![Dry Goods ingredient category example](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_VCb2IRNZKeOMFomSNl822g.png)
+![Dry Goods ingredient category example](/recipe-app-react-native/img/app/1_VCb2IRNZKeOMFomSNl822g.png)
 
 #### single recipe
-![single recipe](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_VgBsGsmnh8KVbLl5zXrRVg.png)
+![single recipe](/recipe-app-react-native/img/app/1_VgBsGsmnh8KVbLl5zXrRVg.png)
 
 #### free recipe list
-![free recipe list](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_ZxOtsHs2uy7Dr-cFYPfHNw.png)
+![free recipe list](/recipe-app-react-native/img/app/1_ZxOtsHs2uy7Dr-cFYPfHNw.png)
 
 #### login
-![login](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_nP7z3x6XyMVtqzn2GKtzKA.png)
+![login](/recipe-app-react-native/img/app/1_nP7z3x6XyMVtqzn2GKtzKA.png)
 
 #### recipe screen
-![recipe screen](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_VgBsGsmnh8KVbLl5zXrRVg.png)
+![recipe screen](/recipe-app-react-native/img/app/1_VgBsGsmnh8KVbLl5zXrRVg.png)
 
 #### grocery list
-![grocery list](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_nprlmKfB0mK3iGEMyBzxUQ.png)
+![grocery list](/recipe-app-react-native/img/app/1_nprlmKfB0mK3iGEMyBzxUQ.png)
 
 #### recipe
-![recipe](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_oeHStaREVxroqXwrWi378w.png)
+![recipe](/recipe-app-react-native/img/app/1_oeHStaREVxroqXwrWi378w.png)
 
 #### ingredients
-![ingredients](https://raw.githubusercontent.com/ChickenKyiv/creative/master/app/1_rEI_KD1wAwgyVPmDKD1jtQ.png)
+![ingredients](/recipe-app-react-native/img/app/1_rEI_KD1wAwgyVPmDKD1jtQ.png)
