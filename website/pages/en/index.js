@@ -134,9 +134,9 @@ const FeatureCallout = props => (
         <li><a href="/recipe-app-react-native/docs/prev-app-screenshots">Previous application screenshots</a></li>
         <li><a href="/recipe-app-react-native/docs/text">Text</a></li>
         <li><a href="/recipe-app-react-native/docs/ui-elements">UI Elements</a></li>
-        <li><a href="/recipe-app-react-native/docs/article1.md">if you have recipe based website and want to have an application too</a></li>
-        <li><a href="/recipe-app-react-native/docs/article2.md">How I plan to get from app idea into working prototype(food tech)</a></li>
-        <li><a href="/recipe-app-react-native/docs/article3.md">Basic requirements for React Native app</a></li>
+        <li><a href="/recipe-app-react-native/docs/article1">if you have recipe based website and want to have an application too</a></li>
+        <li><a href="/recipe-app-react-native/docs/article2">How I plan to get from app idea into working prototype(food tech)</a></li>
+        <li><a href="/recipe-app-react-native/docs/article3">Basic requirements for React Native app</a></li>
       </ul>
       </div>
 
