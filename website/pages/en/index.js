@@ -28,7 +28,13 @@ function pageUrl(page, language) {
 
 class Button extends React.Component {
   render() {
-    return null;
+    return (
+      <div className="pluginWrapper buttonWrapper">
+        <a className="button" href={this.props.href} target={this.props.target}>
+          {this.props.children}
+        </a>
+      </div>
+    );
   }
 }
 
@@ -36,30 +42,156 @@ Button.defaultProps = {
   target: '_self',
 };
 
-const SplashContainer = props => null;
+const SplashContainer = props => (
+  <div className="homeContainer">
+    <div className="homeSplashFade">
+      <div className="wrapper homeWrapper">{props.children}</div>
+    </div>
+  </div>
+);
 
-const Logo = props => null;
+const Logo = props => (
+  <div className="projectLogo">
+    <img src={props.img_src} />
+  </div>
+);
 
-const ProjectTitle = props => null;
+const ProjectTitle = props => (
+  <h2 className="projectTitle">
+    {siteConfig.title}
+    <small>{siteConfig.tagline}</small>
+  </h2>
+);
 
-const PromoSection = props => null;
+const PromoSection = props => (
+  <div className="section promoSection">
+    <div className="promoRow">
+      <div className="pluginRowBlock">{props.children}</div>
+    </div>
+  </div>
+);
 
 class HomeSplash extends React.Component {
   render() {
     let language = this.props.language || '';
-    return null;
+    return (
+      <SplashContainer>
+        <Logo img_src={imgUrl('ChickenKyivLogos.png')} />
+        <div className="inner">
+          <ProjectTitle />
+          <PromoSection>
+          </PromoSection>
+        </div>
+      </SplashContainer>
+    );
   }
 }
 
-const Block = props => null;
+const Block = props => (
+  <Container
+    padding={['bottom', 'top']}
+    id={props.id}
+    background={props.background}>
+    <GridBlock align="left" contents={props.children} layout={props.layout} />
+  </Container>
+);
 
-const Features = props => null;
+const Features = props => (
+  <Block layout="fourColumn">
+    {[
+      {
+        content: 'This is the content of my feature',
+        image: imgUrl('docusaurus.svg'),
+        imageAlign: 'top',
+        title: 'Feature One',
+      },
+      {
+        content: 'The content of my second feature',
+        image: imgUrl('docusaurus.svg'),
+        imageAlign: 'top',
+        title: 'Feature Two',
+      },
+    ]}
+  </Block>
+);
 
-const FeatureCallout = props => null;
+const FeatureCallout = props => (
+  <div
+    className="productShowcaseSection paddingBottom"
+    style={{textAlign: 'center'}}>
+    <h2>Table of contents</h2>
+        <div className = "tableofcontents">
 
-const LearnHow = props => null;
+      <ul>
+        <li><a href="/docs/init-page">Initial page</a></li>
+        <li><a href="/docs/releases">Releases</a></li>
+        <li><a href="/docs/release0">Release #0</a></li>
+        <li><a href="/docs/release1">Release #1</a></li>
+        <li><a href="/docs/release1.5">Release #1.5</a></li>
+        <li><a href="/docs/release2">Release #2</a></li>
+        <li><a href="/docs/release3">Release #3</a></li>
+        <li><a href="/docs/description">Description</a></li>
+        <li><a href="/docs/prev-app-screenshots">Previous application screenshots</a></li>
+        <li><a href="/docs/text">Text</a></li>
+        <li><a href="/docs/ui-elements">UI Elements</a></li>
+        <li><a href="/docs/article1.md">if you have recipe based website and want to have an application too</a></li>
+        <li><a href="/docs/article2.md">How I plan to get from app idea into working prototype(food tech)</a></li>
+        <li><a href="/docs/article3.md">Basic requirements for React Native app</a></li>
+      </ul>
+      </div>
 
-const TryOut = props => null;
+
+  </div>
+);
+const FeatureCallout2 = props => (
+
+  <div className = "ogg" style={{textAlign: 'left'}}>
+    <div className="wrapper">
+      <div className="gridBlock">
+        <div className="blockElement imageAlignSide imageAlignLeft twoByGridBlock"><div className="blockImage"><img src="/img/54A84DCB-F7EE-49E3-8DA1-1EF07F873622.png"></img></div><div className="blockContent"><h2><div><span><p>Description</p>
+    </span></div></h2><div><span><p>
+        Build with: Angular, Ionic Framework v.1
+      <ul>
+        <h3>Basic functionality:</h3>
+        <li>Screen with recipes list</li>
+        <li>Recipe details</li>
+        <li>Basic grocery list</li>
+        <li>Login screen.</li>
+    </ul>
+
+
+
+      </p>
+    </span></div></div></div>
+      </div>
+    </div>
+  </div>
+);
+const LearnHow = props => (
+  <Block background="light">
+    {[
+      {
+        content: 'Talk about learning how to use this',
+        image: imgUrl('docusaurus.svg'),
+        imageAlign: 'right',
+        title: 'Learn How',
+      },
+    ]}
+  </Block>
+);
+
+const TryOut = props => (
+  <Block id="try">
+    {[
+      {
+        content: 'Release #1 completed(Free Menu) ^ Build with: Angular, Ionic Framework v.1 Note: soon I’ll redo an app from scratch.',
+        image: imgUrl('54A84DCB-F7EE-49E3-8DA1-1EF07F873622.png'),
+        imageAlign: 'left',
+        title: 'Try it Out',
+      },
+    ]}
+  </Block>
+);
 
 const Description = props => (
   <Block background="dark">
@@ -90,7 +222,18 @@ const Showcase = props => {
       );
     });
 
-  return null;
+  return (
+    <div className="productShowcaseSection paddingBottom">
+      <h2>{"Who's Using This?"}</h2>
+      <p>This project is used by all these people</p>
+      <div className="logos">{showcase}</div>
+      <div className="more-users">
+        <a className="button" href={pageUrl('users.html', props.language)}>
+          More {siteConfig.title} Users
+        </a>
+      </div>
+    </div>
+  );
 };
 
 class Index extends React.Component {
@@ -101,12 +244,17 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
-          <Features />
+          {/* <Features /> */}
+          {/* <TryOut /> */}
+
+          <FeatureCallout2 />
           <FeatureCallout />
-          <LearnHow />
-          <TryOut />
-          <Description />
-          <Showcase language={language} />
+
+          {/* <LearnHow /> */}
+
+
+          {/* <Description /> */}
+          {/* <Showcase language={language} /> */}
         </div>
       </div>
     );
