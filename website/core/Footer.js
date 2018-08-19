@@ -35,10 +35,10 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href="/recipe-app-react-native/docs/init-page.html">
+            <a href="/application-documentation/docs/init-page.html">
               Initial page
             </a>
-            <a href="/recipe-app-react-native/docs/releases.html">
+            <a href="/application-documentation/docs/releases.html">
               Releases
             </a>
 
