@@ -14,3 +14,15 @@
 
 @media only screen and (min-width: 1500px) {
 }
+
+li a {
+  font-size:18px;
+}
+
+.mainBlock {
+  margin-left:20px;
+
+}
+.tableofcontents{
+  text-align: left;
+}
