@@ -7,7 +7,14 @@ sidebar_label: Release #0
 
 Ionic App\(release \#1\) aka Free Menu have this app screens\(screenshots available at the end of article\):
 
-Login / sign-up About app tour View Menu\(recipes list\) View Recipe data View settings Profile Recipe information short/extended \(limited for different purposes\) Simple grocery list form with to-do checkboxes list.
+- Login / sign-up 
+- About app tour 
+- View Menu\(recipes list\) 
+- View Recipe data 
+- View settings 
+- Profile 
+- Recipe information short/extended \(limited for different purposes\) 
+- Simple grocery list form with to-do checkboxes list.
 
 Free-recipes version
 
