@@ -37,7 +37,7 @@ sidebar_label: Release #1
 * Recipes Lists & Recipe details
 * Chat list/Chat details/Comments
 * Dashboard
-* Walkthrough
+* Walk through
 * Credit cards
 * Different navigation types
 * Settings
@@ -55,7 +55,7 @@ Move your recipes between weekdays and plan your future family meals.
  Usually meal planning software is a complex thing. You should be aware about a lot of small things and apply a lot of small tricks. With our project - you can settle down and focus on your content.
 
 ### Solution:
- Build on top of JavaScript frameworks and plugins that used by other projects worldwide. You'll get a simple solution, that conver a big amount of functionality.
+ Build on top of JavaScript frameworks and plugins that used by other projects worldwide. You'll get a simple solution, that cover a big amount of functionality.
 
 ### How to start:
  Download, preview, change design or color scheme easily.
