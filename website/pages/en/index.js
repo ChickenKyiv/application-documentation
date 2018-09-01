@@ -122,22 +122,45 @@ const FeatureCallout = props => (
     <h2>Table of contents</h2>
         <div className = "tableofcontents">
 
-      <ul>
-        <li><a href="/application-documentation/docs/init-page">Initial page</a></li>
-        <li><a href="/application-documentation/docs/releases">Releases</a></li>
-        <li><a href="/application-documentation/docs/release0">Release #0</a></li>
-        <li><a href="/application-documentation/docs/release1">Release #1</a></li>
-        <li><a href="/application-documentation/docs/release1-5">Release #1.5</a></li>
-        <li><a href="/application-documentation/docs/release2">Release #2</a></li>
-        <li><a href="/application-documentation/docs/release3">Release #3</a></li>
-        <li><a href="/application-documentation/docs/description">Description</a></li>
-        <li><a href="/application-documentation/docs/prev-app-screenshots">Previous application screenshots</a></li>
-        <li><a href="/application-documentation/docs/text">Text</a></li>
-        <li><a href="/application-documentation/docs/ui-elements">UI Elements</a></li>
-        <li><a href="/application-documentation/docs/article1">if you have recipe based website and want to have an application too</a></li>
-        <li><a href="/application-documentation/docs/article2">How I plan to get from app idea into working prototype(food tech)</a></li>
-        <li><a href="/application-documentation/docs/article3">Basic requirements for React Native app</a></li>
-      </ul>
+          <ul>
+    <li><a href="/application-documentation/docs/init-page.html">Initial page</a></li>
+    <li><a href="/application-documentation/docs/Sitemaps.html">Sitemaps</a></li>
+    <li><a href="/application-documentation/docs/article1.html">if you have recipe based website and want to have an application too</a></li>
+    <li><a href="/application-documentation/docs/article2.html">How I plan to get from app idea into working prototype(food tech)</a></li>
+    <li><a href="/application-documentation/docs/article3.html">Basic requirements for React Native app</a></li>
+    <li><a href="/application-documentation/docs/basic-flow.html">Basic flow</a></li>
+    <li><a href="/application-documentation/docs/description.html">Description</a></li>
+    <li><a href="/application-documentation/docs/fm-pages.html">Fm pages</a></li>
+    <li><a href="/application-documentation/docs/graphQL/graphQL.html">graphQL</a>
+    <ul>
+    <li><a href="/application-documentation/docs/graphQL/g1.html">graphQL 1</a></li>
+    <li><a href="/application-documentation/docs/graphQL/g2.html">graphQL 2</a></li>
+    <li><a href="/application-documentation/docs/graphQL/g3.html">graphQL 3</a></li>
+    <li><a href="/application-documentation/docs/graphQL/g4.html">graphQL 4</a></li>
+    <li><a href="/application-documentation/docs/graphQL/g5.html">graphQL 5</a></li>
+    </ul></li>
+    <li><a href="/application-documentation/docs/links.html">Links</a></li>
+    <li><a href="/application-documentation/docs/modules-that-we-can-use.html">Modules that we can use</a></li>
+    <li><a href="/application-documentation/docs/next-releases.html">Next Releases</a></li>
+    <li><a href="/application-documentation/docs/pages-meal-planning.html">Pages meal planning</a></li>
+    <li><a href="/application-documentation/docs/pages.html">Pages</a></li>
+    <li><a href="/application-documentation/docs/prev-app-screenshots.html">Previous application screenshots</a></li>
+    <li><a href="/application-documentation/docs/releases/releases.html">Releases</a>
+    <ul>
+    <li><a href="/application-documentation/docs/releases/release-0-2.html">Release #0.2</a></li>
+    <li><a href="/application-documentation/docs/releases/release-0.html">Release #0</a></li>
+    <li><a href="/application-documentation/docs/releases/release-1-0.html">Release #1.0</a></li>
+    <li><a href="/application-documentation/docs/releases/release-1-5.html">Release #1.5</a></li>
+    <li><a href="/application-documentation/docs/releases/release-1.html">Release #1</a></li>
+    <li><a href="/application-documentation/docs/releases/release-2-0.html">Release #2.0</a></li>
+    <li><a href="/application-documentation/docs/releases/release-2.html">Release #2</a></li>
+    <li><a href="/application-documentation/docs/releases/release-3.html">Release #3</a></li>
+    </ul></li>
+    <li><a href="/application-documentation/docs/text.html">Text</a></li>
+    <li><a href="/application-documentation/docs/todo.html">ToDo</a></li>
+    <li><a href="/application-documentation/docs/ui-elements.html">UI Elements</a></li>
+    <li><a href="/application-documentation/docs/ui-ui-kit.html">ui-ui-kit</a></li>
+    </ul>
       </div>
 
 

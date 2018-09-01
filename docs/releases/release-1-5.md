@@ -1,7 +1,7 @@
 ---
-id: release1-5
+id: release-1-5
 title: Release #1.5
-sidebar_label: Release #1.5
+sidebar_label: | Release #1.5
 ---
 
 ### Heading:
