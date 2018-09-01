@@ -1,3 +1,7 @@
+---
+id: links
+title: Links
+---
 https://codecanyon.net/item/recipe-app-complete-react-native-app-for-recipes/21161178
 https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053
 https://medium.com/react-native-motion/transition-challenge-9bc9fdef56c7

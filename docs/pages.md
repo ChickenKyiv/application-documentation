@@ -1,3 +1,7 @@
+---
+id: pages
+title: Pages
+---
 ```
 .controller('weeklyMenuCtrl', function($scope, $stateParams) {
 })
@@ -48,17 +52,17 @@
 ```
 
 
-dRYGOODS.html	
-directions.html	
-freeRecipes.html	
-groceryCategoryList.html	
-groceryList.html	
-groceryListSettings.html	
-ingredients.html	
-intro.html	
-login.html	
-recipe.html	
-recipesCalendar.html	
-signup.html	
-tabsController.html	
+dRYGOODS.html
+directions.html
+freeRecipes.html
+groceryCategoryList.html
+groceryList.html
+groceryListSettings.html
+ingredients.html
+intro.html
+login.html
+recipe.html
+recipesCalendar.html
+signup.html
+tabsController.html
 weeklyMenu.html

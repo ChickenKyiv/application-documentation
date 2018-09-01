@@ -1,3 +1,8 @@
+---
+id: release-0-2
+title: Release #0.2
+sidebar_label: | Release #0.2
+---
 ## Free Menu Release
 
 free-menu functionality
@@ -6,7 +11,7 @@ Later you’ll use Recipe API server for fetching data
 
 For a first stage - we'll not use connection to API. we'll grab data from json arrays that i'll provide.
 
-Pages:
+**Pages:**
 
 
 - Login / sign-up

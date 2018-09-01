@@ -1,3 +1,7 @@
+---
+id: next-releases
+title: Next Releases
+---
 
 #### Authentication
 - Facebook button

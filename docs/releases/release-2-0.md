@@ -1,4 +1,8 @@
-
+---
+id: release-2-0
+title: Release #2.0
+sidebar_label: | Release #2.0
+---
 
 #### Grocery List Milestone (a lot of work was done. So we don't need to start from scratch)
 

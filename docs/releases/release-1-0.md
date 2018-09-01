@@ -1,3 +1,8 @@
+---
+id: release-1-0
+title: Release #1.0
+sidebar_label: | Release #1.0
+---
 
 #### Weekly Menu Part 1
 - Meal plan types types(allergies free, gluten free, cooking for two, a family with kids(main option))

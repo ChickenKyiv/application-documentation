@@ -1,7 +1,7 @@
 ---
-id: release0
+id: release-0
 title: Release #0
-sidebar_label: Release #0
+sidebar_label: | Release #0
 ---
 
 
@@ -18,7 +18,7 @@ Ionic App\(release \#1\) aka Free Menu have this app screens\(screenshots availa
 
 
 
-Free-recipes version
+### Free-recipes version
 
 * Recipes list\(weekly menu analog\)
 * An app intro with images\(finish with displaying content, test how it works, complete js, so app intro opens only one time\). Images picked. Controller added. Content was picked.
