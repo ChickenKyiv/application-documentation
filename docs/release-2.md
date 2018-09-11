@@ -11,13 +11,17 @@ Recipe app with ability to sign up, sign in
 Standalone and deploy ready application with all basic features like account were completed
 
 ### Summary:
-An app, that have all basic features and screens done. Can be used as recipe app with different purposes, like Facebook and email login.
+An app, that have all basic recipe application features and screens is done.
+It can be used as an app with different purposes, related to meal management
 
 ### Problem:
-Market is full with similar apps, app templates. Same functionality, same logic, different code and using different technologies.
+Market is full with similar apps on AppStore, or app templates.
+Same functionality, same logic, different code and using a different technologies.
 
 ### Solution:
-Utilize the basic functionality, use the latest technology and good testing approach, deliver the result that can be used in different cases. Split it into small chunks, work on them and make them working well as separated parts, create a clean and easy to use documentation. As inspiration sample see how Facebook create and manage an open sourced projects.
+Utilize the basic functionality, use the latest technology on market, good testing approach, deliver the result that can be used in different cases.
+Split it into small chunks, work on them and make them working well as separated parts, create a clean and easy to use documentation.
+As an inspiration sample see how Facebook create and manage an open sourced projects.
 
 ### How to start:
 Same us previous releases

@@ -33,23 +33,10 @@ Most complex thing related to building a bridge between your website database, A
 
 You are able to set up an app with free-menu functionality right now. You’ll display 5–6 recipes for a week, with additional data.
 
-Free Menu have this app screens\(screenshots available at the end of article\):
 
-* Login / sign-up
 
-* About app tour
 
-* View Menu\(recipes list\)
 
-* View Recipe data
-
-* View settings
-
-* Profile
-
-* Recipe information short/extended \(limited for different purposes\)
-
-* Simple grocery list form with to-do checkboxes list.
 
 > Note: in this release, we have screens with ingredients list — right now auto-generation\(convert recipes data to grocery list\) is not working.
 
