@@ -1,6 +1,44 @@
 {
   "summary":{
-    " ":["init-page","releases","release0","release1","release1-5","release2","release3","description","prev-app-screenshots","text",
-    "ui-elements","article1","article2","article3","summary"]
+    " ":["init-page",
+"Sitemaps",
+"article1",
+"article2",
+"article3",
+"basic-flow",
+"description",
+"fm-pages"
+],
+"graphQL":[
+"graphQL/graphQL",
+"graphQL/g1",
+"graphQL/g2",
+"graphQL/g3",
+"graphQL/g4",
+"graphQL/g5"
+],
+"  ":[
+"links",
+"modules-that-we-can-use",
+"next-releases",
+"pages-meal-planning",
+"pages",
+"prev-app-screenshots"],
+"Releases":[
+"releases/releases",
+"releases/release-0-2",
+"releases/release-0",
+"releases/release-1-0",
+"releases/release-1-5",
+"releases/release-1",
+"releases/release-2-0",
+"releases/release-2",
+"releases/release-3"
+],
+"   ":[
+"text",
+"todo",
+"ui-elements",
+"ui-ui-kit"]
   }
 }

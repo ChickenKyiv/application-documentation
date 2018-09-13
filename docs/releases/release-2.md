@@ -1,7 +1,7 @@
 ---
-id: release2
+id: release-2
 title: Release #2
-sidebar_label: Release #2
+sidebar_label: | Release #2
 ---
 
 ### Heading:
