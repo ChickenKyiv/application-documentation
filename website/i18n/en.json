@@ -12,13 +12,6 @@
     "basic-flow": "Basic flow",
     "description": "Description",
     "Description": "Description",
-<<<<<<< HEAD
-    "graphQL/1": "graphQL/1",
-    "graphQL/2": "graphQL/2",
-    "graphQL/3": "graphQL/3",
-    "graphQL/4": "graphQL/4",
-    "graphQL/5": "graphQL/5",
-=======
     "fm-pages": "Fm pages",
     "graphQL/g1": "graphQL 1",
     "| graphQL 1": "| graphQL 1",
@@ -36,7 +29,6 @@
     "next-releases": "Next Releases",
     "pages-meal-planning": "Pages meal planning",
     "pages": "Pages",
->>>>>>> 7ae89624d451fcf13b61af373acb664938cb1b3e
     "prev-app-screenshots": "Previous application screenshots",
     "Previous application screenshots": "Previous application screenshots",
     "init-page": "Initial page",
