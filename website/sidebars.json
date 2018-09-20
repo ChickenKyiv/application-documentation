@@ -2,9 +2,9 @@
   "summary":{
     " ":["init-page",
 "Sitemaps",
-"article1",
-"article2",
-"article3",
+"articles/article1",
+"articles/article2",
+"articles/article3",
 "basic-flow",
 "description",
 "fm-pages"
@@ -23,7 +23,10 @@
 "next-releases",
 "pages-meal-planning",
 "pages",
-"prev-app-screenshots"],
+"prev-app-screenshots",
+"free-menu-functionality",
+"weekly-meals-functionality"
+],
 "Releases":[
 "releases/releases",
 "releases/release-0-2",

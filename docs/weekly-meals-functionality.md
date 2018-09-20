@@ -1,5 +1,5 @@
 ---
-id: weekly-menu-functionality
+id: weekly-meals-functionality
 title: Weekly Menu Functionality (Release #1)
 sidebar_label: Weekly Menu Functionality
 ---
